@@ -2,7 +2,7 @@
   "name": "@faustwp/faust-scaffold",
   "private": true,
   "scripts": {
-    "dev": "faust dev",
+    "dev": "next dev",
     "build": "faust build",
     "generate": "faust generatePossibleTypes",
     "start": "faust start"
